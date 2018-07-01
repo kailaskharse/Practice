@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-# gittest
-=======
-# Practice
->>>>>>> 8700e028e98aeffe8afc21aaf62d7af41bea75bd
+GIT Commands:
+
+git config --global user.name "kailaskharse"
+git config --global user.name "kharse.kailas@gmail.com"
+git init
+git add .
+git commit -m "Message"
+git remote add origin https://github.com/kailaskharse/Practice.git
+git push -u origin master
+
