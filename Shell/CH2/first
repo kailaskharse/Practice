@@ -1,0 +1,6 @@
+#
+#my first shell script
+#
+clear
+echo "Knowldege is Power"
+

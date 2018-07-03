@@ -1,0 +1,5 @@
+Tue Jul  3 11:29:34 IST 2018
+           system boot  2018-07-03 10:07
+LOGIN      tty1         2018-07-03 10:08              1219 id=tty1
+kharskai + tty7         2018-07-03 10:08 01:21        1860 (:0)
+           run-level 5  2018-07-03 10:09
