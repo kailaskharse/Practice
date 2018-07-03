@@ -1,6 +1,9 @@
-#
-#my first shell script
-#
-clear
-echo "Knowldege is Power"
-
+##
+##my first shell script
+##
+#clear
+#echo "Knowldege is Power"
+VAR=hi
+echo "VAR is : $VAR"
+VAR="hi there"
+echo "MYVAR is : $MYVAR"
