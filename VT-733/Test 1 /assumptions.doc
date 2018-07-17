@@ -1,0 +1,34 @@
+﻿
+Assuming this code is hardcoaded for only for 10 inputs.
+
+Also it can be made dynaic in Main function of this program by commemting and removing few commented lines in this program.
+
+
+
+
+Following is the sample file how to use this program.
+
+
+kharskai@vtlw040l:~/VT-733$ ./Linked_list_all_questions_VT-733 
+enter the data for node[1]:1
+enter the data for node[2]:2
+enter the data for node[3]:3
+enter the data for node[4]:4
+enter the data for node[5]:5
+enter the data for node[6]:6
+enter the data for node[7]:7
+enter the data for node[8]:8
+enter the data for node[9]:9
+enter the data for node[10]:10
+
+Created Linked list is:  1  2  3  4  5  6  7  8  9  10 
+
+enter the position to delete:5
+after deleting the node LL is as follows:
+ 1  2  3  4  6  7  8  9  10 
+Before Swaping
+enter the position from 1-10 which need to be swapped:2
+9
+after swaping the nodes[2] and [9] the LL is as follows:
+ 1  9  3  4  6  7  8  2  10 
+

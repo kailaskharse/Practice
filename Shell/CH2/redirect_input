@@ -1,0 +1,36 @@
+Mon Jul  9 12:56:03 IST 2018
+arathmatic.sh
+cleanup.sh
+command_line_arg
+echo_command.sh
+exit_status.sh
+first
+ginfo.sh
+log.txt
+mathoprt.sh
+read_statment.sh
+redirect_cap_output
+redirect_command
+redirect_input
+redirect_sort_output
+time.sh
+variblesh.sh
+total 72
+drwxrwxr-x 2 kharskai kharskai 4096 Jul  9 12:52 .
+drwxrwxr-x 3 kharskai kharskai 4096 Jul  6 15:00 ..
+-rw-rw-r-- 1 kharskai kharskai  271 Jul  6 15:00 arathmatic.sh
+-rwxrwxr-x 1 kharskai kharskai  429 Jul  6 15:00 cleanup.sh
+-rwxr-xr-x 1 kharskai kharskai  275 Jul  9 12:29 command_line_arg
+-rw-rw-r-- 1 kharskai kharskai  814 Jul  6 15:00 echo_command.sh
+-rw-rw-r-- 1 kharskai kharskai  563 Jul  6 15:00 exit_status.sh
+-rwxrwxr-x 1 kharskai kharskai  132 Jul  6 15:00 first
+-rwxrwxr-x 1 kharskai kharskai  222 Jul  6 15:00 ginfo.sh
+-rw-rw-r-- 1 kharskai kharskai  242 Jul  6 15:00 log.txt
+-rwxrwxr-x 1 kharskai kharskai  160 Jul  6 15:00 mathoprt.sh
+-rw-rw-r-- 1 kharskai kharskai  142 Jul  6 15:00 read_statment.sh
+-rw-rw-r-- 1 kharskai kharskai  940 Jul  9 12:53 redirect_cap_output
+-rw-rw-r-- 1 kharskai kharskai  105 Jul  9 12:51 redirect_command
+-rw-rw-r-- 1 kharskai kharskai  248 Jul  9 12:56 redirect_input
+-rw-rw-r-- 1 kharskai kharskai  940 Jul  9 12:51 redirect_sort_output
+-rw-rw-r-- 1 kharskai kharskai  127 Jul  6 15:00 time.sh
+-rw-rw-r-- 1 kharskai kharskai 1076 Jul  6 15:00 variblesh.sh

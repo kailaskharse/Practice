@@ -1,0 +1,17 @@
+-rw-rw-r-- 1 kharskai kharskai  814 Jul  6 15:00 echo_command.sh
+-rw-rw-r-- 1 kharskai kharskai 1076 Jul  6 15:00 variblesh.sh
+-rwxrwxr-x 1 kharskai kharskai  132 Jul  6 15:00 first
+-rw-rw-r-- 1 kharskai kharskai   29 Jul  9 12:44 redirect_output
+-rw-rw-r-- 1 kharskai kharskai  271 Jul  6 15:00 arathmatic.sh
+total 60
+-rw-rw-r-- 1 kharskai kharskai  142 Jul  6 15:00 read_statment.sh
+Mon Jul  9 12:44:18 IST 2018
+-rw-rw-r-- 1 kharskai kharskai  242 Jul  6 15:00 log.txt
+-rwxr-xr-x 1 kharskai kharskai  275 Jul  9 12:29 command_line_arg
+-rw-rw-r-- 1 kharskai kharskai  127 Jul  6 15:00 time.sh
+drwxrwxr-x 2 kharskai kharskai 4096 Jul  9 12:31 .
+-rw-rw-r-- 1 kharskai kharskai  563 Jul  6 15:00 exit_status.sh
+-rwxrwxr-x 1 kharskai kharskai  429 Jul  6 15:00 cleanup.sh
+-rwxrwxr-x 1 kharskai kharskai  160 Jul  6 15:00 mathoprt.sh
+drwxrwxr-x 3 kharskai kharskai 4096 Jul  6 15:00 ..
+-rwxrwxr-x 1 kharskai kharskai  222 Jul  6 15:00 ginfo.sh

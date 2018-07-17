@@ -1,0 +1,3 @@
+tr "[a-z]" "[A-Z]" < readirect_input > redirect_cap_output
+
+sort < redirect_input > redirect_sort_ouptpu
