@@ -1,0 +1,2 @@
+Both TCP and UDP are protocols used for sending bits of data — known as packets — over the Internet.
+TCP and UDP are not the only protocols that work on top of IP. However, they are the most widely used.

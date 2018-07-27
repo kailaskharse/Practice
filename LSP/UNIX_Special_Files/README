@@ -1,0 +1,15 @@
+special Files that Represent Devices.
+
+Eg: Pipes and FIFO
+
+This Chapter intor to ht Client-Server Model and also discussed how to handle 
+special files representing devices such as terminals.
+
+PIPES:
+     The pipe function creates a communication buffer that the caller can access thourgh the file descriptors 
+	 fildes[0] and fildes[1].
+	 The data written to fildes [1] and can be read from fildes[0] on first-in-first-out Basis.
+
+	 e.g: #include<unistd.h>
+	 		int pipe(int fildes[2]);
+				for Success return 0; if unsuccessful returns -1 and sets errno.

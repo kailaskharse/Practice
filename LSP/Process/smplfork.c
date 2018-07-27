@@ -10,20 +10,20 @@ int main(){
 	ret=fork();
 	if(ret>0){
 		printf("Parent: This is parent process (PID=%d)\n",getpid());
-	for (i=0; i<10; i++){
-		printf("Parent: At count %d \n",i);
-		sleep(1);
+		for (i=0; i<10; i++){
+			printf("Parent: At count %d \n",i);
+			sleep(1);
 		}
-	ret=wait(&status); 	//suspend the parent unitil child process exit.
-	role = 0;
+		ret=wait(&status); 	//suspend the parent unitil child process exit.
+		role = 0;
 	}
 	else if (ret == 0){
 		printf("Child: This is the child process (PID=%d)\n",getpid());
-	for (i=0; i<10; i++){
-		printf("Child: At count %d \n",i);
-		sleep(1);
-		}
-	role = 1;
+		for (i=0; i<10; i++){
+			printf("Child: At count %d \n",i);
+			sleep(1);
+			}
+		role = 1;
 	}
 	else{
 		printf("Parent: Error trying to fork() (%d)\n",errno);
