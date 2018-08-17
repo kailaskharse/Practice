@@ -1,0 +1,9 @@
+For compileing we use following command
+
+$cc Problem_1.c -lpthread -lrt -o Problem_1
+
+use following command to execute the program
+
+./Problem_1
+
+

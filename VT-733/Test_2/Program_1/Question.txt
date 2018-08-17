@@ -1,0 +1,10 @@
+Create thereads T1, T2, T3, T4 where threads are executing the belwo:
+
+T1 is infinitely printing '1'
+T2 is infinitely printing '2'
+T3 is infinitely printing '3'
+T4 is infinitely printing '4'
+
+Serialize the thread execution in a such a way that the pringing of numbers is serialized infinitely as '1','2','3','4','1','2','3','4', and so on.....
+
+Use only sempahores inf you are writing the code in C.
