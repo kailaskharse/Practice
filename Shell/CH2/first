@@ -5,5 +5,5 @@
 #echo "Knowldege is Power"
 VAR=hi
 echo "VAR is : $VAR"
-VAR="hi there"
+MYVAR="hi there"
 echo "MYVAR is : $MYVAR"
