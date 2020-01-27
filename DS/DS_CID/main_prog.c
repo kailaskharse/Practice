@@ -98,3 +98,15 @@ void display(struct node *start){
 	}
 	printf("\n");
 }
+
+void count(struct node *start){
+	sturct node *p;
+	static int count=0;
+	p=start;
+	while(p!=NULL){
+		count++;
+		p=p->link;
+	}
+	printf("Number of Elements in LL is %d\n",count);
+	return 0;
+}
