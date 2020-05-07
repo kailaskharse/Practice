@@ -9,3 +9,5 @@ git commit -m "Message"
 git remote add origin https://github.com/kailaskharse/Practice.git
 git push -u origin master
 
+
+git remote add origin http://gitlab.volansys.com/amit.shelke/jigna_nehate-training-2020.git
